@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Epilogue;
+  src: url('./assets/fonts/Epilogue-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: Inter;
+  src: url('./assets/fonts/Inter-VariableFont_slnt_wght.ttf');
+}
+
+@font-face {
+  font-family: Clash Display Variable;
+  src: url('./assets/fonts/ClashDisplay-Variable.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-left: 3%;
+  margin-right: 3%;
+}

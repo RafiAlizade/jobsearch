@@ -1,0 +1,67 @@
+.js_header {
+    background: rgb(243, 243, 243);
+    width: 100%;
+}
+
+.js_header__inner {
+    padding-top: 1.4rem;
+    padding-bottom: 1.4rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 3rem;
+}
+
+.header__links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    > a {
+        text-decoration: none;
+        color: rgb(81, 91, 111);
+font-family: Inter;
+font-size: 1rem;
+font-weight: 500;
+text-align: left;
+    }
+}
+
+.header__right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    > a {
+        text-decoration: none;
+    }
+}
+
+.header__login_btn {
+    color: rgb(70, 64, 222);
+font-family: Inter;
+font-size: 1rem;
+font-weight: 500;
+text-align: center;
+}
+
+.header__register_btn {
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 1rem;
+font-weight: 600;
+line-height: 160%;
+letter-spacing: 0%;
+text-align: center;
+background: rgb(70, 64, 222);
+padding: 0.75rem 1.5rem 0.75rem 1.5rem;
+}
+
