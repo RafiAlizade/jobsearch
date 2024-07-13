@@ -45,7 +45,7 @@ function Footer() {
 
                 <div className="footer__submain">
                     <span>
-                        Get job notifications
+                        Get job notification
                     </span>
 
                     <span>
