@@ -1,0 +1,17 @@
+<svg width="48.599609" height="57.600098" viewBox="0 0 48.5996 57.6001" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_42164">
+			<rect id="Nomad" width="48.599998" height="57.599998" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Nomad" width="48.599998" height="57.599998" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_42164)">
+		<path id="Vector" d="M0 14.29L0 42.73L24.43 57.42L24.99 56.51L24.43 28.9L0.83 14.31L0 14.29Z" fill="#449B82" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M48.6 14.16L48.6 43L24.43 57.42L24.43 28.9L47.71 14.18L48.6 14.16Z" fill="#9BDB9C" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M24.29 0L48.59 14.15L24.43 29.38L0 14.29L24.29 0Z" fill="#56CDAD" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M36.5 11.34L28.28 16.21L28.28 26.03L20.05 21.08L12.13 25.77L12.13 46.29L20.35 41.2L20.35 30.15L29.13 35.75L36.5 31.18L36.5 11.34Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

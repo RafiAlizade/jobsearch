@@ -1050,5 +1050,175 @@
         "icon": "users",
         "avaible": 346
     }
+],
+"activeJobs": [
+    {
+        "name": "Email Marketing",
+        "companyName": "Revolut",
+        "locCity": "Madrid",
+        "locCountry": "Spain",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Revolut is looking for an Email Marketing Specialist to help the team manage email campaigns, create engaging content, and analyze performance metrics to drive customer engagement and retention.",
+        "companyLogo": "./src/assets/images/Companies/revolut.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Brand Designer",
+        "companyName": "Dropbox",
+        "locCity": "San Fransisco",
+        "locCountry": "US",
+        "hashOne": "Design",
+        "hashTwo": "Business",
+        "jobDescription": "Dropbox is looking for a Brand Designer to help the team create visually compelling brand materials, design marketing collateral, and ensure brand consistency across all platforms.",
+        "companyLogo": "./src/assets/images/Companies/dropbox.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Email Marketing",
+        "companyName": "Pitch",
+        "locCity": "Berlin",
+        "locCountry": "Germany",
+        "hashOne": "Marketing",
+        "hashTwo": "",
+        "jobDescription": "Pitch is looking for a Customer Manager to join the marketing team, develop email marketing strategies, and create personalized email campaigns to enhance customer experience.",
+        "companyLogo": "./src/assets/images/Companies/pitch.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Visual Designer",
+        "companyName": "Blinkist",
+        "locCity": "Granada",
+        "locCountry": "Spain",
+        "hashOne": "Design",
+        "hashTwo": "",
+        "jobDescription": "Blinkist is looking for a Visual Designer to help the team design user-friendly interfaces, create engaging visuals for marketing campaigns, and maintain design consistency across all products.",
+        "companyLogo": "./src/assets/images/Companies/blinklist.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Product Designer",
+        "companyName": "ClassPass",
+        "locCity": "Manchester",
+        "locCountry": "UK",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "ClassPass is looking for a Product Designer to help us create intuitive and visually appealing product designs, collaborate with engineering teams, and ensure a seamless user experience.",
+        "companyLogo": "./src/assets/images/Companies/classpass.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Lead Designer",
+        "companyName": "Canva",
+        "locCity": "Ontario",
+        "locCountry": "Canada",
+        "hashOne": "Design",
+        "hashTwo": "Business",
+        "jobDescription": "Canva is looking for a Lead Designer to help develop new design features, lead a team of designers, and ensure that all design work aligns with the company's brand and business goals.",
+        "companyLogo": "./src/assets/images/Companies/canva.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Brand Strategist",
+        "companyName": "GoDaddy",
+        "locCity": "Marseille",
+        "locCountry": "France",
+        "hashOne": "Marketing",
+        "hashTwo": "",
+        "jobDescription": "GoDaddy is looking for a Brand Strategist to join the team, develop brand strategies, conduct market research, and create marketing campaigns that resonate with our target audience.",
+        "companyLogo": "./src/assets/images/Companies/godaddy.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Data Analyst",
+        "companyName": "Twitter",
+        "locCity": "San Diego",
+        "locCountry": "US",
+        "hashOne": "Technology",
+        "hashTwo": "",
+        "jobDescription": "Twitter is looking for a Data Analyst to help the team design data collection processes, analyze data to derive insights, and create reports to support data-driven decision making.",
+        "companyLogo": "./src/assets/images/Companies/twitter.svg",
+        "time": "Full Time",
+        "featuredJob": true
+    },
+    {
+        "name": "Social Media Assistant",
+        "companyName": "Nomad",
+        "locCity": "Paris",
+        "locCountry": "France",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Nomad is looking for a Social Media Assistant to manage social media accounts, create content, and engage with the community to increase brand awareness.",
+        "companyLogo": "./src/assets/images/Companies/nomad.svg",
+        "time": "Full Time",
+        "featuredJob": false
+    },
+    {
+        "name": "Social Media Assistant",
+        "companyName": "Netlify",
+        "locCity": "Paris",
+        "locCountry": "France",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Netlify is looking for a Social Media Assistant to manage social media accounts, create content, and engage with the community to increase brand awareness.",
+        "companyLogo": "./src/assets/images/Companies/netlify-logo.svg",
+        "time": "Full Time",
+        "featuredJob": false
+    },
+    {
+        "name": "Interactive Developer",
+        "companyName": "Terraform",
+        "locCity": "Hamburg",
+        "locCountry": "Germany",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Terraform is looking for an Interactive Developer to create dynamic web applications, collaborate with designers, and ensure the best user experience.",
+        "companyLogo": "./src/assets/images/Companies/terraform.svg",
+        "time": "Full Time",
+        "featuredJob": false
+    },
+    {
+        "name": "Interactive Developer",
+        "companyName": "Udacity",
+        "locCity": "Hamburg",
+        "locCountry": "Germany",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Udacity is looking for an Interactive Developer to create dynamic web applications, collaborate with designers, and ensure the best user experience.",
+        "companyLogo": "./src/assets/images/Companies/udacity.svg",
+        "time": "Full Time",
+        "featuredJob": false
+    },
+    {
+        "name": "HR Manager",
+        "companyName": "Packer",
+        "locCity": "Lucern",
+        "locCountry": "Switzerland",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Packer is looking for an HR Manager to oversee all aspects of human resources practices and processes, and ensure the company's HR strategies align with overall business goals.",
+        "companyLogo": "./src/assets/images/Companies/packer-logo.svg",
+        "time": "Full Time",
+        "featuredJob": false
+    },
+    {
+        "name": "HR Manager",
+        "companyName": "Webflow",
+        "locCity": "Lucern",
+        "locCountry": "Switzerland",
+        "hashOne": "Marketing",
+        "hashTwo": "Design",
+        "jobDescription": "Webflow is looking for an HR Manager to oversee all aspects of human resources practices and processes, and ensure the company's HR strategies align with overall business goals.",
+        "companyLogo": "./src/assets/images/Companies/webflow-logo.svg",
+        "time": "Full Time",
+        "featuredJob": false
+    }
 ]
 }

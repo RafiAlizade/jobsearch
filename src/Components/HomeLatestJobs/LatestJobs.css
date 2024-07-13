@@ -1,0 +1,183 @@
+.js__latestjobs {
+    width: 100%;
+    background: url('./../../assets/images/Companies/Rectangle 2734.svg');
+    background-color: rgb(243, 243, 243);
+    background-position-x: right;
+    background-position-y: -20rem;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    clip-path: polygon(10% 0, 80% 0%, 100% 0, 100% 100%, 80% 100%, 20% 100%, 0 100%, 0 6%);
+}
+
+
+.js__latestjobs__inner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 3rem;
+    padding-top: 4.5rem;
+    padding-bottom: 4rem;
+}
+
+.latestjobs__top {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.latestjobs__toptext {
+    color: rgb(37, 50, 75);
+    font-family: Inter;
+    font-size: 3rem;
+    font-weight: 500;
+    text-align: left;
+
+    >span {
+        color: rgb(38, 164, 255);
+    }
+}
+
+.latestjobs__top a {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    color: rgb(70, 64, 222);
+    font-family: Epilogue;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration: none;
+
+    >svg {
+        font-size: 1.3rem;
+    }
+}
+
+.latestjobs__bottom {
+    width: 100%;
+}
+
+.latestjobs__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    width: 100%;
+    column-gap: 5%;
+    row-gap: 1rem;
+
+    >a {
+        text-decoration: none;
+    }
+}
+
+.latestjobs__box {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 1.9rem;
+    padding: 1.5rem 2.5rem 1.5rem 2.5rem;
+    background: rgb(255, 255, 255);
+    transition: .15s ease-in;
+    transform: translateY(0);
+}
+
+.latestjobs__box:hover {
+    transform: translateY(-.5rem);
+transition: .15s ease-in;
+
+> .latestjobs__box__texts .latestjobs__texts__top .latestjobs__name {
+    color: rgba(70, 64, 222, .7);
+}
+}
+
+.latestjobs__img {
+    width: 4rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+
+    >img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+.latestjobs__box__texts {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: .5rem;
+}
+
+.latestjobs__texts__top {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: .5rem;
+}
+
+.latestjobs__name {
+    color: rgb(37, 50, 75);
+    font-family: Inter;
+    font-size: 1.13rem;
+    font-weight: 700;
+    letter-spacing: 0%;
+}
+
+.latestjobs__company_loc {
+    color: rgb(81, 91, 111);
+    font-family: Inter;
+    font-size: .95rem;
+    font-weight: 500;
+    letter-spacing: 0%;
+}
+
+.latestjobs__shows {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .5rem;
+}
+
+.latestjobs__time {
+    padding: 0.38rem 0.63rem 0.38rem 0.63rem;
+    border-radius: 5rem;
+    background: rgba(86, 205, 173, 0.1);
+    border: none;
+    color: rgb(86, 205, 173);
+    font-family: Inter;
+    font-size: 0.88rem;
+    font-weight: 500;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.latestjobs__hash1 {
+    padding: 0.38rem 0.63rem 0.38rem 0.63rem;
+    border-radius: 5rem;
+    border: 0.06rem solid rgb(255, 184, 54);
+    background: none;
+    color: rgb(255, 184, 54);
+    font-family: Inter;
+    font-size: 0.88rem;
+    font-weight: 500;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.latestjobs__has2 {
+    padding: 0.38rem 0.63rem 0.38rem 0.63rem;
+    border-radius: 5rem;
+    border: 0.06rem solid rgb(70, 64, 222);
+    background: none;
+    color: rgb(70, 64, 222);
+    font-family: Inter;
+    font-size: 0.88rem;
+    font-weight: 500;
+    letter-spacing: 0%;
+    text-align: left;
+}

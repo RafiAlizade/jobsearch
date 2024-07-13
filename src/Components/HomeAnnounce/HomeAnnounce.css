@@ -1,0 +1,87 @@
+.js__announce {
+    width: 100%;
+}
+
+
+
+.js__announce__inner {
+    position: relative;
+    z-index: 100; 
+    background: rgb(70, 64, 222);
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 4.4rem 2rem 0rem 2rem;
+    clip-path: polygon(10% 0, 100% 0, 100% 76%, 85% 100%, 0 100%, 0% 25%);
+}
+
+.announce__left {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5rem;
+    /* z-index: 101; */
+    width: 50%;
+    padding-left: 8%;
+}
+
+.announce__right {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    /* padding-right: 0%; */
+    /* z-index: 13213; */
+}
+
+
+.announce__img {
+    width: 80%;
+    position: relative;
+    /* z-index: 01; */
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+
+    > img {
+        /* z-index: 121; */
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+
+.announce__h2 {
+    width: 60%;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 3rem;
+font-weight: 500;
+/* letter-spacing: 0%; */
+text-align: left;
+}
+
+.announce__description {
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 1rem;
+font-weight: 500;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.announce__left  a {
+    padding: 0.75rem 1.5rem 0.75rem 1.5rem;
+background: rgb(255, 255, 255);
+color: rgb(70, 64, 222);
+font-family: Inter;
+font-size: 1rem;
+font-weight: 700;
+letter-spacing: 0%;
+text-align: center;
+text-decoration: none;
+}

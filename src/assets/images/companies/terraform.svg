@@ -1,0 +1,17 @@
+<svg width="64.000000" height="64.000000" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_42210">
+			<rect id="Terraform Enterprise" width="45.599998" height="51.199997" transform="translate(9.599609 6.399902)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Terraform Enterprise" width="45.599998" height="51.199997" transform="translate(9.599609 6.399902)" fill="#21D4EF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_42210)">
+		<path id="XMLID 21" d="M25.68 15.46L39.23 23.31L39.23 38.97L25.68 31.11L25.68 15.46Z" fill="#21D4EF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="XMLID 20" d="M41.64 23.31L55.19 15.46L55.19 31.11L41.64 38.97L41.64 23.31Z" fill="#21D4EF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="XMLID 19" d="M9.6 6.39L23.15 14.25L23.15 29.9L9.6 22.05L9.6 6.39Z" fill="#21D4EF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="XMLID 18" d="M25.68 34.09L39.23 41.88L39.23 57.59L25.68 49.74L25.68 34.09Z" fill="#21D4EF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

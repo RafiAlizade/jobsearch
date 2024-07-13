@@ -1,0 +1,14 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_46517">
+			<rect id="Dropbox" width="38.400002" height="36.000000" transform="translate(4.799805 6.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Dropbox" width="38.400002" height="36.000000" transform="translate(4.799805 6.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_46517)">
+		<path id="Vector" d="M14.39 7.54L4.79 13.74L14.39 19.85L24 13.74L14.39 7.54ZM33.59 7.54L24 13.74L33.59 19.85L43.19 13.74L33.59 7.54ZM4.79 26.05L14.39 32.24L24 26.05L14.39 19.85L4.79 26.05ZM33.59 19.85L24 26.05L33.59 32.24L43.19 26.05L33.59 19.85ZM14.39 34.25L24 40.45L33.59 34.25L24 28.14L14.39 34.25Z" fill="#0062FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
